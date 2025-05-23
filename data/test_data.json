@@ -1,0 +1,94 @@
+{
+    "user_details": {
+        "name": "manu",
+        "email": "meghanakanduluru12@gmail.com",
+        "password": "meghana@2000",
+        "first_name": "manu",
+        "last_name": "kanduluru",
+        "company": "Tech Company",
+        "address1": "gudur",
+        "address2": "west",
+        "country": "India",
+        "state": "karnataka",
+        "city": "bglr",
+        "zipcode": "13451",
+        "mobile_number": "1243597890"
+
+    },
+
+    "login_details": {
+        "email": "meghanakanduluru@gmail.com",
+        "password": "meghana@2000"
+  },
+
+    "incorrect_login_details": {
+        "email": "incorrectmail@gmail.com",
+        "password": "incorrectpassword12"
+    },
+
+    "existing_login_details": {
+        "name": "manu",
+        "email": "meghanakanduluru@gmail.com"
+    },
+
+    "contact_us_details":{
+        "name": "manu",
+        "email":"meghanakanduluru@gmail.com",
+        "subject":"This is the Subject",
+        "message":"Iam giving some message"
+                
+    },
+
+    "register_details": {
+        "name": "bhavana",
+        "email": "bhanukanduluru@gmail.com",
+        "password": "bhanu@2000",
+        "first_name": "manu",
+        "last_name": "kanduluru",
+        "company": "Tech Company",
+        "address1": "gudur",
+        "address2": "west",
+        "country": "India",
+        "state": "karnataka",
+        "city": "bglr",
+        "zipcode": "13451",
+        "mobile_number": "1243597890"
+
+    },
+
+    "text_message":{
+        "message": "This is the order message"
+    },
+
+    "card_details":{
+        "card_name":"bhanu",
+        "card_number":"34556788",
+        "cvc":"456",
+        "expiry_month":"12",
+        "expiry_year":"2027"
+    },
+
+    "register_details1": {
+        "name": "bhavana",
+        "email": "bhavanakanduluru12@gmail.com",
+        "password": "bhanu@2000",
+        "first_name": "manu",
+        "last_name": "kanduluru",
+        "company": "Tech Company",
+        "address1": "gudur",
+        "address2": "west",
+        "country": "India",
+        "state": "karnataka",
+        "city": "bglr",
+        "zipcode": "13451",
+        "mobile_number": "1243597890"
+
+    }
+
+}
+
+
+
+
+
+   
