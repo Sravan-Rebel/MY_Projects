@@ -1,0 +1,26 @@
+movie booking functionality
+
+User Registration/Login
+Movie Selection
+Showtime and Theater Selection
+Seat Selection
+Booking Summary
+Payment
+Ticket Confirmation
+
+
+movie cancel booking functionality
+
+
+User Login
+Access Booking History
+Select Booking to Cancel
+Cancellation Confirmation
+Initiate Cancellation
+Cancellation Processing
+Refund Processing (if applicable)
+
+
+Testing:
+
+identifying and rectifying errors, bugs, and defects to ensure the software's quality, reliability, and performance.
